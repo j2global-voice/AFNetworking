@@ -206,6 +206,10 @@
 		E91164651DA6A7AE00DFFF56 /* AFPropertyListRequestSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E91164641DA6A7AE00DFFF56 /* AFPropertyListRequestSerializerTests.m */; };
 		E91164661DA6A7AE00DFFF56 /* AFPropertyListRequestSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E91164641DA6A7AE00DFFF56 /* AFPropertyListRequestSerializerTests.m */; };
 		E91164671DA6A7AE00DFFF56 /* AFPropertyListRequestSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E91164641DA6A7AE00DFFF56 /* AFPropertyListRequestSerializerTests.m */; };
+		F92FDA862BF21A89002D2536 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F92FDA852BF21A89002D2536 /* PrivacyInfo.xcprivacy */; };
+		F92FDA872BF21A89002D2536 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F92FDA852BF21A89002D2536 /* PrivacyInfo.xcprivacy */; };
+		F92FDA882BF21A89002D2536 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F92FDA852BF21A89002D2536 /* PrivacyInfo.xcprivacy */; };
+		F92FDA892BF21A89002D2536 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F92FDA852BF21A89002D2536 /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -326,6 +330,7 @@
 		E2B10D8C233035100004E005 /* Amazon Root CA 1.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amazon Root CA 1.cer"; sourceTree = "<group>"; };
 		E2B10D8D233035100004E005 /* Amazon.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = Amazon.cer; sourceTree = "<group>"; };
 		E91164641DA6A7AE00DFFF56 /* AFPropertyListRequestSerializerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFPropertyListRequestSerializerTests.m; sourceTree = "<group>"; };
+		F92FDA852BF21A89002D2536 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -526,6 +531,7 @@
 				439E280C247E16DE004467ED /* LICENSE */,
 				439E2813247E16DE004467ED /* Package.swift */,
 				439E2810247E16DE004467ED /* README.md */,
+				F92FDA852BF21A89002D2536 /* PrivacyInfo.xcprivacy */,
 			);
 			name = "Supporting Files";
 			path = AFNetworking;
@@ -865,6 +871,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F92FDA892BF21A89002D2536 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -953,6 +960,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F92FDA862BF21A89002D2536 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -960,6 +968,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F92FDA872BF21A89002D2536 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -967,6 +976,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F92FDA882BF21A89002D2536 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
