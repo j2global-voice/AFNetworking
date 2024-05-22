@@ -85,4 +85,6 @@ EOS
     ss.public_header_files = 'UIKit+AFNetworking/*.h'
     ss.source_files = 'UIKit+AFNetworking'
   end
+  
+  s.resource_bundles = {'AFNetworking' => ['AFNetworking/PrivacyInfo.xcprivacy']}
 end
